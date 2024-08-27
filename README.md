@@ -1,2 +1,27 @@
-# income_tax
-The data is collected for different states in the US. It consists of several excel sheets: raw data of total income taxes collected, consumption rate per state, locations and tax codes. The dataset is poorly structured and in need of tidying up to improve its quality.   Initial dataset is saved here: https://docs.google.com/spreadsheets/d/1JEhog1MXnOWxJGjfDhJ0BcpvE4bxUxF0cik08UR4EqI/edit?usp=sharing   Questions to answer during the research.  1. Determine state which has the highest amount of taxes per person. 2. Determine state with the third largest amount of collected taxes. 3. Name region with the smallest value of sum of "Individual Income Taxes" and "Income Taxes" 4. Calculate percent changes of personal consumption expenditures between 2018 and 2020 for each state and determine state and year with highest change (example: Florida 2018/2019) 5. Determine Region with the highest average Personal Consumption Expenditures per person in 2020 6. Prepare a dashboard(s) in one of data visualization to present: 1) Amount of taxes collected per person in each state. 2) Amount of taxes collected in each state. 3) Breakdown of collected taxes (tax types). 4) How value of personal consumption expenditures has changed in time. 5) Ranking of regions based on average value of personal consumption expenditures per person.
+## 📊 Income Tax Analysis Project
+
+### Project Objective
+The objective of this project is to analyze income tax data from different states in the US to uncover trends and insights related to tax collection and personal consumption expenditures. The project will involve cleaning and organizing the dataset, performing calculations, and presenting the results through a dashboard.
+
+### Data
+The dataset is collected from various states in the US and consists of several Excel sheets containing:
+
+* Total Income Taxes Collected
+* Consumption Rate per State
+* Locations and Tax Codes
+
+The dataset is currently poorly structured and needs to be tidied up to improve its quality. The initial dataset is saved [here](https://docs.google.com/spreadsheets/d/1JEhog1MXnOWxJGjfDhJ0BcpvE4bxUxF0cik08UR4EqI/edit).
+
+### Research Questions
+During the research, the following questions will be answered:
+* Determine the state with the highest amount of taxes per person.
+* Identify the state with the third-largest amount of collected taxes.
+* Name the region with the smallest sum of "Individual Income Taxes" and "Income Taxes."
+* Calculate the percent changes in personal consumption expenditures between 2018 and 2020 for each state and identify the state and year with the highest change (e.g., Florida 2018/2019).
+* Determine the region with the highest average Personal Consumption Expenditures per person in 2020.
+
+#### Feedback
+Your comments and questions are very welcome at `ybezginova2021@gmail.com`.
+
+Best wishes,
+"""Yulia
