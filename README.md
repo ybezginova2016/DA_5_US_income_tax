@@ -23,5 +23,4 @@ During the research, the following questions will be answered:
 #### Feedback
 Your comments and questions are very welcome at `ybezginova2021@gmail.com`.
 
-Best wishes,
-"""Yulia
+Best wishes, Yulia
